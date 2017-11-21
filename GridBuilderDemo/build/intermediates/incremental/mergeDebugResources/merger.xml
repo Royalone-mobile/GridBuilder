@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output$Generated" generated="true"><source path="C:\Users\royal\.android\build-cache\8d7373781abf8b4026b520f928128b3307a2b8e0\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\royal\.android\build-cache\6e4e90d072497136ca4fe007db29a7aee960db19\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\royal\.android\build-cache\fac70bed84d7e3f19336d02ed12c6980f673ef47\output\res"/></dataSet><dataSet config="default$Generated" generated="true"><source path="F:\Projects\GridBuilder-master\GridBuilderLib\build\intermediates\bundles\default\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\main\res"/><source path="F:\Projects\GridBuilder-master\GridBuilderDemo\build\generated\res\rs\debug"/><source path="F:\Projects\GridBuilder-master\GridBuilderDemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\debug\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\royal\.android\build-cache\8d7373781abf8b4026b520f928128b3307a2b8e0\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\royal\.android\build-cache\6e4e90d072497136ca4fe007db29a7aee960db19\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\royal\.android\build-cache\fac70bed84d7e3f19336d02ed12c6980f673ef47\output\res"><file path="C:\Users\royal\.android\build-cache\fac70bed84d7e3f19336d02ed12c6980f673ef47\output\res\values\values.xml" qualifiers=""><dimen name="default_gap">8dip</dimen><declare-styleable name="GridLayout"><attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable><declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="float" name="layout_rowWeight"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr format="float" name="layout_columnWeight"/><attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr></declare-styleable></file></source></dataSet><dataSet config="default" from-dependency="true" generated-set="default$Generated"><source path="F:\Projects\GridBuilder-master\GridBuilderLib\build\intermediates\bundles\default\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\main\res"><file name="activity_test" path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\main\res\layout\activity_test.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">GridBuilderDemo</string></file></source><source path="F:\Projects\GridBuilder-master\GridBuilderDemo\build\generated\res\rs\debug"/><source path="F:\Projects\GridBuilder-master\GridBuilderDemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\Projects\GridBuilder-master\GridBuilderDemo\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="GridLayout"><attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable><declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="float" name="layout_rowWeight"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr format="float" name="layout_columnWeight"/><attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

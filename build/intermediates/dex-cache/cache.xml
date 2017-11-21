@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Projects\GridBuilder-master\GridBuilderLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1c650b33e87f5363d18843eee67338c4472a4de">
+        <dex dex="F:\Projects\GridBuilder-master\GridBuilderDemo\build\intermediates\pre-dexed\debug\classes_71d4837afad94af42ee971e02969ba372ab5a4bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\royal\.android\build-cache\fac70bed84d7e3f19336d02ed12c6980f673ef47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d7d5cb7b9ff76f4b8360a0a56b94c857cf00a3e">
+        <dex dex="F:\Projects\GridBuilder-master\GridBuilderDemo\build\intermediates\pre-dexed\debug\classes_465b056f7c9ea45d8432b485b0bdc18ca6c8f040.jar" />
+    </item>
+
+</items>

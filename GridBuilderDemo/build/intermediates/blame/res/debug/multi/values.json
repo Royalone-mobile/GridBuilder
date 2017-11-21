@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "F:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2249,
+                    "endColumn": 42,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "C:\\Users\\royal\\.android\\build-cache\\fac70bed84d7e3f19336d02ed12c6980f673ef47\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2249,
+                        "endColumn": 42,
+                        "endOffset": 2287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2292,
+                    "endColumn": 52,
+                    "endOffset": 2340
+                },
+                "from": {
+                    "file": "F:\\Projects\\GridBuilder-master\\GridBuilderDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 52,
+                        "endOffset": 64
+                    }
+                }
+            }
+        ]
+    }
+]

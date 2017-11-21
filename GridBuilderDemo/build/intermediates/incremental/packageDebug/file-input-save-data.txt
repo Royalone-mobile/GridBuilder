@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Nov 06 16:57:50 CST 2017
+2.base=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_
+7.file=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=9
+0.file=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-hdpi-v4\\ic_launcher.png
+5.base=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_
+8.file=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_
+1.file=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_test.xml
+1.set=ANDROID_RESOURCE
+7.base=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_
+8.base=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\Projects\\GridBuilder-master\\GridBuilderDemo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

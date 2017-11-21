@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GridBuilder-master.iml" filepath="$PROJECT_DIR$/GridBuilder-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridBuilderDemo/GridBuilderDemo.iml" filepath="$PROJECT_DIR$/GridBuilderDemo/GridBuilderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridBuilderLib/GridBuilderLib.iml" filepath="$PROJECT_DIR$/GridBuilderLib/GridBuilderLib.iml" />
+    </modules>
+  </component>
+</project>

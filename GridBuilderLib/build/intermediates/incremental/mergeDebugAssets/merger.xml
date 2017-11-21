@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Projects\GridBuilder-master\GridBuilderLib\src\main\assets"/><source path="F:\Projects\GridBuilder-master\GridBuilderLib\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\Projects\GridBuilder-master\GridBuilderLib\src\debug\assets"/></dataSet></merger>
